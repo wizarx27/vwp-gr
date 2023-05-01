@@ -1,0 +1,15 @@
+.img-singer{
+    width: 350px !important;
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+
+.singer-card{
+    padding: 10px;
+}
+
+.singer-container{
+    gap: 3px;
+    flex-wrap: wrap;
+}
